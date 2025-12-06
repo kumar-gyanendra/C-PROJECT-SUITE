@@ -6,7 +6,7 @@
 
 **C-PROJECT-SUITE** is my personal collection of fully implemented **C programming projects**, each built to demonstrate strong command over structured programming, problem-solving, and system-level logic.
 
- This repository reflects:
+  This repository reflects:
 
 - Real application development in C
 - Clean, modular code organization
@@ -24,10 +24,10 @@ Each directory contains a complete, runnable program — not snippets or exercis
 ✔️ **Modular Code Architecture**
 
  Projects follow clean separation of:
-- src/ – logic implementation
-- include/ – header/interface files
-- build/ – compiled outputs
-- data/ – if persistent storage is required
+- `src/` – logic implementation
+- `include/` – header/interface files
+- `build/` – compiled outputs
+- `data/` – if persistent storage is required
 
 ✔️ **Real-World Functionality**
 

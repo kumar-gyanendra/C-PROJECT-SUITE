@@ -1,5 +1,7 @@
 # 🅲 C-PROJECT-SUITE
 **A curated collection of complete, production-style C projects built with clean architecture, modular design, and real-world functionality.**
+
+
 ## 📘 Overview
 
 **C-PROJECT-SUITE** is my personal collection of fully implemented **C programming projects**, each built to demonstrate strong command over structured programming, problem-solving, and system-level logic.
@@ -12,9 +14,8 @@
 - Fully working and buildable console-based tools
 - A growing portfolio of project-level implementations
 
-Every project inside this repo has a defined purpose, structured codebase, and complete execution flow.
-
-
+Every project inside this repo has a defined purpose, structured codebase, and complete execution flow.<br>
+<br>
 ## 🚀 What You Will Find Here
 ✔️ **Full Projects, Not Practice Files**
 
@@ -40,16 +41,15 @@ Typical project features include:
 
 ✔️ **Scalable and Maintainable Projects**
 
-Designed to be expanded, improved, or integrated into larger applications.
-
+Designed to be expanded, improved, or integrated into larger applications.<br>
+<br>
 ## 🎯 Goals of This Repository
 
 - Showcase practical C development skills
 - Maintain a structured archive of complete C projects
 - Demonstrate the ability to build real, functioning tools
 - Improve software design and implementation discipline
-- Provide a strong portfolio reference for interviews
-
+- Provide a strong portfolio reference for interviews.<br><br>
 ## 🧠 Technical Skills Demonstrated
 
 - **Advanced C programming**
@@ -57,19 +57,17 @@ Designed to be expanded, improved, or integrated into larger applications.
 - **Pointers, arrays, strings & memory handling**
 - **File handling & persistent storage**
 - **Project-level architecture**
-- **Data structure usage (structs, lists, etc.)
+- **Data structure usage (structs, lists, etc.)**
 - **Algorithmic thinking & logical flow control**
 - **Debugging and input validation**
-- **Command-line tool development**
-
+- **Command-line tool development**<br><br>
 ## ⭐ Why This Repository Stands Out
 
 - ✓ Represents **actual development**, not theoretical practice
 - ✓ Designed with **industry coding habits** in mind
 - ✓ Useful for interview demonstrations
 - ✓ Shows ability to create maintainable, real-use applications
-- ✓ Reflects consistent improvement and hands-on experience
-
+- ✓ Reflects consistent improvement and hands-on experience<br><br>
 ## 📬 Contact
 
  If you’d like to connect, collaborate, or review more of my work:

@@ -70,7 +70,7 @@ Designed to be expanded, improved, or integrated into larger applications.<br>
 - ✓ Reflects consistent improvement and hands-on experience<br><br>
 ## 📬 Contact
 
- If you’d like to connect, collaborate, or review more of my work:
+ If you’d like to connect, collaborate, or review more of my work:-
 
 - **GitHub:** https://github.com/kumar-gyanendra
 - **LinkedIn:** https://www.linkedin.com/in/krgyanendra213
